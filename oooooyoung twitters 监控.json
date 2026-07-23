@@ -1,0 +1,4501 @@
+{
+  "version": "1.0",
+  "type": "gmgn-twitter-follow",
+  "exportedAt": 1784777340689,
+  "users": [
+    {
+      "handle": "heyibinance",
+      "platform": 0,
+      "user_id": "1003840309166366721",
+      "borderColor": "#fff700",
+      "sound": "Boom"
+    },
+    {
+      "handle": "teslaownerssv",
+      "platform": 0,
+      "user_id": "1016059981907386368"
+    },
+    {
+      "handle": "binancebcf",
+      "platform": 0,
+      "user_id": "1016073106186571776",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancehelpdesk",
+      "platform": 0,
+      "user_id": "1026411197669625858"
+    },
+    {
+      "handle": "odailychina",
+      "platform": 0,
+      "user_id": "1026696890304233473"
+    },
+    {
+      "handle": "joey_awwad",
+      "platform": 0,
+      "user_id": "1030403191794483200"
+    },
+    {
+      "handle": "earthcurated",
+      "platform": 0,
+      "user_id": "1038150281794646017"
+    },
+    {
+      "handle": "whale_alert",
+      "platform": 0,
+      "user_id": "1039833297751302144"
+    },
+    {
+      "handle": "trumpchinese1",
+      "platform": 0,
+      "user_id": "1044093629323632640",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "techflowpost",
+      "platform": 0,
+      "user_id": "1050570534860156928",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "hud_zah",
+      "platform": 0,
+      "user_id": "1051009170235830272"
+    },
+    {
+      "handle": "binanceafrica",
+      "platform": 0,
+      "user_id": "1051751414030987265"
+    },
+    {
+      "handle": "binanceangels",
+      "platform": 0,
+      "user_id": "1051956316456067072"
+    },
+    {
+      "handle": "bnbchain",
+      "platform": 0,
+      "user_id": "1052454006537314306",
+      "borderColor": "#fbff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "himgajria",
+      "platform": 0,
+      "user_id": "1054149844384669696"
+    },
+    {
+      "handle": "deeemo123",
+      "platform": 0,
+      "user_id": "1065217614"
+    },
+    {
+      "handle": "felixreed15ljn",
+      "platform": 0,
+      "user_id": "1066526395164229633"
+    },
+    {
+      "handle": "duolingo",
+      "platform": 0,
+      "user_id": "107238136"
+    },
+    {
+      "handle": "798_eth",
+      "platform": 0,
+      "user_id": "1080717364151402502"
+    },
+    {
+      "handle": "binance_aus",
+      "platform": 0,
+      "user_id": "1090055922934665216"
+    },
+    {
+      "handle": "paoloardoino",
+      "platform": 0,
+      "user_id": "109404961",
+      "remark": {
+        "name": "u s d t总裁",
+        "color": "#F8B951"
+      },
+      "sound": "Cheer"
+    },
+    {
+      "handle": "deanmlittle",
+      "platform": 0,
+      "user_id": "1094149265360805888"
+    },
+    {
+      "handle": "bitget",
+      "platform": 0,
+      "user_id": "1098881129057112064"
+    },
+    {
+      "handle": "trumpwarroom",
+      "platform": 0,
+      "user_id": "1108472017144201216",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "sbf_ftx",
+      "platform": 0,
+      "user_id": "1110877798820777986"
+    },
+    {
+      "handle": "wublockchain",
+      "platform": 0,
+      "user_id": "111533746",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binanceus",
+      "platform": 0,
+      "user_id": "1115465940831891457",
+      "borderColor": "#fbff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cgtnofficial",
+      "platform": 0,
+      "user_id": "1115874631"
+    },
+    {
+      "handle": "ycombinator",
+      "platform": 0,
+      "user_id": "113130846"
+    },
+    {
+      "handle": "chineseembinus",
+      "platform": 0,
+      "user_id": "1136383051917910017",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "popbase",
+      "platform": 0,
+      "user_id": "1138458175663988738"
+    },
+    {
+      "handle": "ryancohen",
+      "platform": 0,
+      "user_id": "1146058067244486656"
+    },
+    {
+      "handle": "0xsunnft",
+      "platform": 0,
+      "user_id": "1146492710582308864"
+    },
+    {
+      "handle": "ladyxtel",
+      "platform": 0,
+      "user_id": "11503282"
+    },
+    {
+      "handle": "klys7788",
+      "platform": 0,
+      "user_id": "1153985713836384256"
+    },
+    {
+      "handle": "cryptosis9_okx",
+      "platform": 0,
+      "user_id": "1160793818939006976",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "lulu_binance",
+      "platform": 0,
+      "user_id": "1161677978788597761"
+    },
+    {
+      "handle": "nina_rong",
+      "platform": 0,
+      "user_id": "1164750442787561474",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "zora",
+      "platform": 0,
+      "user_id": "1168028988091985920"
+    },
+    {
+      "handle": "cupseyy",
+      "platform": 0,
+      "user_id": "1168903946989010944"
+    },
+    {
+      "handle": "sciencegirl",
+      "platform": 0,
+      "user_id": "1179892477714718721",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "yuki_arano",
+      "platform": 0,
+      "user_id": "1180006453588791298"
+    },
+    {
+      "handle": "cookerflips",
+      "platform": 0,
+      "user_id": "1189381231198134272"
+    },
+    {
+      "handle": "0xcryptowizard",
+      "platform": 0,
+      "user_id": "1195728139898376193"
+    },
+    {
+      "handle": "gold_burger",
+      "platform": 0,
+      "user_id": "1199071982"
+    },
+    {
+      "handle": "jack",
+      "platform": 0,
+      "user_id": "12"
+    },
+    {
+      "handle": "unusual_whales",
+      "platform": 0,
+      "user_id": "1200616796295847936"
+    },
+    {
+      "handle": "cici0x",
+      "platform": 0,
+      "user_id": "1203094068953264131"
+    },
+    {
+      "handle": "tethergold",
+      "platform": 0,
+      "user_id": "1216370810799247365",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "sunyuchentron",
+      "platform": 0,
+      "user_id": "1222182756400037889"
+    },
+    {
+      "handle": "ellazhang516",
+      "platform": 0,
+      "user_id": "122235629",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "visegrad24",
+      "platform": 0,
+      "user_id": "1222773302441148416"
+    },
+    {
+      "handle": "jason2937tw",
+      "platform": 0,
+      "user_id": "1226896524"
+    },
+    {
+      "handle": "miyayweb3",
+      "platform": 0,
+      "user_id": "1232020421479788544"
+    },
+    {
+      "handle": "iraninarabic_ir",
+      "platform": 0,
+      "user_id": "1232772548540162049"
+    },
+    {
+      "handle": "whaleinsider",
+      "platform": 0,
+      "user_id": "1235148742631862273"
+    },
+    {
+      "handle": "hexiecs",
+      "platform": 0,
+      "user_id": "1236194290100928514"
+    },
+    {
+      "handle": "geniusterminal",
+      "platform": 0,
+      "user_id": "1236460732486692864",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "rachelconlan",
+      "platform": 0,
+      "user_id": "1240886711229562880",
+      "borderColor": "#00ffb3",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancelatam",
+      "platform": 0,
+      "user_id": "1245737194544824327"
+    },
+    {
+      "handle": "binancebrasil",
+      "platform": 0,
+      "user_id": "1249598767617019904"
+    },
+    {
+      "handle": "fupenglondon",
+      "platform": 0,
+      "user_id": "1253347166",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "polymarket",
+      "platform": 0,
+      "user_id": "1261335549215989760"
+    },
+    {
+      "handle": "robinhoodapp",
+      "platform": 0,
+      "user_id": "1265037073",
+      "borderColor": "#00ff91",
+      "sound": "Boom"
+    },
+    {
+      "handle": "carrychen777",
+      "platform": 0,
+      "user_id": "1268104855689637888"
+    },
+    {
+      "handle": "dailybeijing",
+      "platform": 0,
+      "user_id": "1268144739997503493"
+    },
+    {
+      "handle": "esatoshiclub",
+      "platform": 0,
+      "user_id": "1274803199040462848",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancearabic",
+      "platform": 0,
+      "user_id": "1280770519973990402",
+      "borderColor": "#05ebdc",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "treenewsfeed",
+      "platform": 0,
+      "user_id": "1282727055604486148",
+      "borderColor": "#eeff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "eth_cedric",
+      "platform": 0,
+      "user_id": "1284052345668673536",
+      "borderColor": "#06feed",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "48clubian",
+      "platform": 0,
+      "user_id": "1284904420023492609"
+    },
+    {
+      "handle": "alphanewsx",
+      "platform": 0,
+      "user_id": "1286173055149056000",
+      "borderColor": "#00d8f5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bscscan",
+      "platform": 0,
+      "user_id": "1288799372377878528",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "web3annie",
+      "platform": 0,
+      "user_id": "1291222903552319488"
+    },
+    {
+      "handle": "tiktokcomms",
+      "platform": 0,
+      "user_id": "1291802729438945280",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "youyou5202",
+      "platform": 0,
+      "user_id": "1294022686583054336"
+    },
+    {
+      "handle": "unipioneer",
+      "platform": 0,
+      "user_id": "1295186358743339011"
+    },
+    {
+      "handle": "bull_bnb",
+      "platform": 0,
+      "user_id": "1297503202464718850"
+    },
+    {
+      "handle": "thecryptoskanda",
+      "platform": 0,
+      "user_id": "1298668226155442176",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "yayabinance",
+      "platform": 0,
+      "user_id": "1300621581652119552",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "xuxubaobao0819",
+      "platform": 0,
+      "user_id": "1301319517"
+    },
+    {
+      "handle": "aa_afeng",
+      "platform": 0,
+      "user_id": "1303033822339104770"
+    },
+    {
+      "handle": "pancakeswap",
+      "platform": 0,
+      "user_id": "1305349277422477313",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "00xhwin",
+      "platform": 0,
+      "user_id": "1307354470880178176"
+    },
+    {
+      "handle": "mert",
+      "platform": 0,
+      "user_id": "1309886201944473600"
+    },
+    {
+      "handle": "abustin",
+      "platform": 0,
+      "user_id": "1312511"
+    },
+    {
+      "handle": "pinewsmedia",
+      "platform": 0,
+      "user_id": "1313548940944396288"
+    },
+    {
+      "handle": "readthisbookcz",
+      "platform": 0,
+      "user_id": "1315952468509949953"
+    },
+    {
+      "handle": "binancearg",
+      "platform": 0,
+      "user_id": "1317114283696730112"
+    },
+    {
+      "handle": "nousresearch",
+      "platform": 0,
+      "user_id": "1318419526132862976"
+    },
+    {
+      "handle": "marionawfal",
+      "platform": 0,
+      "user_id": "1319287761048723458"
+    },
+    {
+      "handle": "0xmagnolia",
+      "platform": 0,
+      "user_id": "1323413840235696130"
+    },
+    {
+      "handle": "spigg1115",
+      "platform": 0,
+      "user_id": "1323718321091522561",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bscnews",
+      "platform": 0,
+      "user_id": "1323762343302615040"
+    },
+    {
+      "handle": "traderpow",
+      "platform": 0,
+      "user_id": "1325739682752204800"
+    },
+    {
+      "handle": "eth3210",
+      "platform": 0,
+      "user_id": "1325928967"
+    },
+    {
+      "handle": "libsoftiktok",
+      "platform": 0,
+      "user_id": "1326229737551912960"
+    },
+    {
+      "handle": "tesla",
+      "platform": 0,
+      "user_id": "13298072"
+    },
+    {
+      "handle": "binancepk",
+      "platform": 0,
+      "user_id": "1330996514970345475"
+    },
+    {
+      "handle": "brc20niubi",
+      "platform": 0,
+      "user_id": "1332902969273065473"
+    },
+    {
+      "handle": "coindesk",
+      "platform": 0,
+      "user_id": "1333467482"
+    },
+    {
+      "handle": "hucccccccc",
+      "platform": 0,
+      "user_id": "1337101982171947008"
+    },
+    {
+      "handle": "batzdu",
+      "platform": 0,
+      "user_id": "1339660355568607235"
+    },
+    {
+      "handle": "monad",
+      "platform": 0,
+      "user_id": "1342961741718810632",
+      "borderColor": "#00aaff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "crypto_bitlord7",
+      "platform": 0,
+      "user_id": "1343224146658914304"
+    },
+    {
+      "handle": "gcsheng",
+      "platform": 0,
+      "user_id": "1344963706657017858"
+    },
+    {
+      "handle": "yourpop8",
+      "platform": 0,
+      "user_id": "1347777544649641985"
+    },
+    {
+      "handle": "zakfolkman",
+      "platform": 0,
+      "user_id": "1349771918698819586",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cryptorover",
+      "platform": 0,
+      "user_id": "1353384573435056128"
+    },
+    {
+      "handle": "cryptokobe92",
+      "platform": 0,
+      "user_id": "1354297795742625794"
+    },
+    {
+      "handle": "jakegagain",
+      "platform": 0,
+      "user_id": "1355014327988707329"
+    },
+    {
+      "handle": "dogeofficialceo",
+      "platform": 0,
+      "user_id": "1355945100216573952"
+    },
+    {
+      "handle": "greg16676935420",
+      "platform": 0,
+      "user_id": "1356434353623093249"
+    },
+    {
+      "handle": "lin_btc",
+      "platform": 0,
+      "user_id": "1358020510672580608"
+    },
+    {
+      "handle": "0xkingslanding",
+      "platform": 0,
+      "user_id": "1358702831520280576",
+      "borderColor": "#00f0d4",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cainchiong",
+      "platform": 0,
+      "user_id": "1358840049404551168"
+    },
+    {
+      "handle": "ed_x0101",
+      "platform": 0,
+      "user_id": "1359150440663949319"
+    },
+    {
+      "handle": "aomake70",
+      "platform": 0,
+      "user_id": "1360627961314103296"
+    },
+    {
+      "handle": "baoskee",
+      "platform": 0,
+      "user_id": "1361614361580642311"
+    },
+    {
+      "handle": "darkfarms1",
+      "platform": 0,
+      "user_id": "1362045599638503427"
+    },
+    {
+      "handle": "chaincatcher_",
+      "platform": 0,
+      "user_id": "1362797601960071171",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "broleon",
+      "platform": 0,
+      "user_id": "1362967156825018369"
+    },
+    {
+      "handle": "teknium",
+      "platform": 0,
+      "user_id": "1365020011123773442"
+    },
+    {
+      "handle": "binance_vietnam",
+      "platform": 0,
+      "user_id": "1365511588946448386"
+    },
+    {
+      "handle": "baizhousiyu",
+      "platform": 0,
+      "user_id": "1365550661392355329",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dp520888",
+      "platform": 0,
+      "user_id": "1369273601237651458"
+    },
+    {
+      "handle": "four_form_",
+      "platform": 0,
+      "user_id": "1369580794369372163",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "matt_furie",
+      "platform": 0,
+      "user_id": "1370173798931066883",
+      "borderColor": "#007bff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binanceafrique",
+      "platform": 0,
+      "user_id": "1371110343796219906"
+    },
+    {
+      "handle": "cryptodevinl",
+      "platform": 0,
+      "user_id": "1371263177288130561",
+      "borderColor": "#00fadd",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "connectfarm1",
+      "platform": 0,
+      "user_id": "1373081719834775554",
+      "borderColor": "#00ebc4",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ranking091",
+      "platform": 0,
+      "user_id": "1374007890739130368"
+    },
+    {
+      "handle": "chillhousesol",
+      "platform": 0,
+      "user_id": "1374283021214388225"
+    },
+    {
+      "handle": "bitcloutcat",
+      "platform": 0,
+      "user_id": "1374985535169552388"
+    },
+    {
+      "handle": "liping007",
+      "platform": 0,
+      "user_id": "1377465265223462913"
+    },
+    {
+      "handle": "0x_wdb",
+      "platform": 0,
+      "user_id": "1377537268685041668"
+    },
+    {
+      "handle": "blockdao_1",
+      "platform": 0,
+      "user_id": "1381100578403573760"
+    },
+    {
+      "handle": "fifaworldcup",
+      "platform": 0,
+      "user_id": "138372303",
+      "borderColor": "#00fffb",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xleng1",
+      "platform": 0,
+      "user_id": "1385351482233475078"
+    },
+    {
+      "handle": "binanceukraine",
+      "platform": 0,
+      "user_id": "1385557358558973953",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "watcherguru",
+      "platform": 0,
+      "user_id": "1387497871751196672"
+    },
+    {
+      "handle": "0x_sixxxvc",
+      "platform": 0,
+      "user_id": "1387614140038979588"
+    },
+    {
+      "handle": "cryptocald",
+      "platform": 0,
+      "user_id": "1389048939656224770"
+    },
+    {
+      "handle": "cb_doge",
+      "platform": 0,
+      "user_id": "1389913567671975937"
+    },
+    {
+      "handle": "web3feng",
+      "platform": 0,
+      "user_id": "1391080697037656064"
+    },
+    {
+      "handle": "newlistingsfeed",
+      "platform": 0,
+      "user_id": "1392883724023439366",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xmoon",
+      "platform": 0,
+      "user_id": "1393107434059616257"
+    },
+    {
+      "handle": "kris7146",
+      "platform": 0,
+      "user_id": "1394655211239612417"
+    },
+    {
+      "handle": "_richardteng",
+      "platform": 0,
+      "user_id": "1395261244769112065",
+      "borderColor": "#fff700",
+      "sound": "Boom"
+    },
+    {
+      "handle": "metafroggy_",
+      "platform": 0,
+      "user_id": "1395484460225900545",
+      "remark": {
+        "name": "ton生态lead",
+        "color": "#F8B951"
+      }
+    },
+    {
+      "handle": "42space",
+      "platform": 0,
+      "user_id": "1399758260354359301",
+      "borderColor": "#00fffb",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancewallet",
+      "platform": 0,
+      "user_id": "1400391752368992260",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "btcdayu",
+      "platform": 0,
+      "user_id": "1403881130802225152"
+    },
+    {
+      "handle": "0xsoju",
+      "platform": 0,
+      "user_id": "1404234340783968258"
+    },
+    {
+      "handle": "doodles",
+      "platform": 0,
+      "user_id": "1405701429646430212"
+    },
+    {
+      "handle": "bqlsj2023",
+      "platform": 0,
+      "user_id": "1405826789927182337"
+    },
+    {
+      "handle": "jdunkel",
+      "platform": 0,
+      "user_id": "14101624"
+    },
+    {
+      "handle": "geckoterminal",
+      "platform": 0,
+      "user_id": "1410787559467151363",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "hashhadir",
+      "platform": 0,
+      "user_id": "1411359009010036737"
+    },
+    {
+      "handle": "mikebelshe",
+      "platform": 0,
+      "user_id": "141145166"
+    },
+    {
+      "handle": "cryptojiuyi",
+      "platform": 0,
+      "user_id": "1413148701443330053"
+    },
+    {
+      "handle": "0xdeployer",
+      "platform": 0,
+      "user_id": "1414021381298089984",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "panewscn",
+      "platform": 0,
+      "user_id": "1416680666184306689",
+      "borderColor": "#009dff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xbozwang",
+      "platform": 0,
+      "user_id": "1420219801230712835"
+    },
+    {
+      "handle": "binancetrdestek",
+      "platform": 0,
+      "user_id": "1422173093888503815"
+    },
+    {
+      "handle": "wallet",
+      "platform": 0,
+      "user_id": "1422839229592178689",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "skyogbnb",
+      "platform": 0,
+      "user_id": "1424761355391827973"
+    },
+    {
+      "handle": "binancefutures",
+      "platform": 0,
+      "user_id": "1426142483822518274",
+      "borderColor": "#eeff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "sisibinance",
+      "platform": 0,
+      "user_id": "1427931875935330310",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "stevie_satoshi",
+      "platform": 0,
+      "user_id": "1428052418290458629",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "wublockchain12",
+      "platform": 0,
+      "user_id": "1428246848301502464",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "shabi666woc",
+      "platform": 0,
+      "user_id": "1430325991461715968"
+    },
+    {
+      "handle": "s0meone_u_know",
+      "platform": 0,
+      "user_id": "1430412612081180674",
+      "remark": {
+        "name": "ton生态艺术家",
+        "color": "#F8B951"
+      },
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jiujinshan2022",
+      "platform": 0,
+      "user_id": "1431214429840896003"
+    },
+    {
+      "handle": "boldleonidas",
+      "platform": 0,
+      "user_id": "1432635656161746947"
+    },
+    {
+      "handle": "sz_mediagroup",
+      "platform": 0,
+      "user_id": "1433745612537741318",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "silverfang88",
+      "platform": 0,
+      "user_id": "1435990322702520320"
+    },
+    {
+      "handle": "ownthedoge",
+      "platform": 0,
+      "user_id": "1436448375931506688"
+    },
+    {
+      "handle": "ytflzyyds",
+      "platform": 0,
+      "user_id": "1437049754882494466"
+    },
+    {
+      "handle": "brian_armstrong",
+      "platform": 0,
+      "user_id": "14379660",
+      "borderColor": "#00d5ff",
+      "sound": "Boom"
+    },
+    {
+      "handle": "dw_chinese",
+      "platform": 0,
+      "user_id": "143810986"
+    },
+    {
+      "handle": "virtuals_io",
+      "platform": 0,
+      "user_id": "1438365197505232902"
+    },
+    {
+      "handle": "rebeccaperrotto",
+      "platform": 0,
+      "user_id": "1439575529204686855"
+    },
+    {
+      "handle": "realhanyahu",
+      "platform": 0,
+      "user_id": "1439593497841987586"
+    },
+    {
+      "handle": "huanqiu_com",
+      "platform": 0,
+      "user_id": "1440506538985095171"
+    },
+    {
+      "handle": "yyds123888",
+      "platform": 0,
+      "user_id": "1441606324010184707"
+    },
+    {
+      "handle": "ton_blockchain",
+      "platform": 0,
+      "user_id": "1442437262663319565",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "solporttom",
+      "platform": 0,
+      "user_id": "1443352548770041856"
+    },
+    {
+      "handle": "buildonbase",
+      "platform": 0,
+      "user_id": "1444011503275810822",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "wangduanniao",
+      "platform": 0,
+      "user_id": "1445222248902651906"
+    },
+    {
+      "handle": "based16z",
+      "platform": 0,
+      "user_id": "1446541960181858315"
+    },
+    {
+      "handle": "biteyecn",
+      "platform": 0,
+      "user_id": "1449010217702739969"
+    },
+    {
+      "handle": "dotyyds1234",
+      "platform": 0,
+      "user_id": "1449274874317266945"
+    },
+    {
+      "handle": "mirro7777",
+      "platform": 0,
+      "user_id": "1450797885952442370",
+      "borderColor": "#00bbfa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancezh",
+      "platform": 0,
+      "user_id": "1451036242431262720",
+      "borderColor": "#fbff00",
+      "sound": "Boom"
+    },
+    {
+      "handle": "tcryptochicks",
+      "platform": 0,
+      "user_id": "1451186401744064518",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "abrlien",
+      "platform": 0,
+      "user_id": "1453280306988003348",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "yingbinance",
+      "platform": 0,
+      "user_id": "1453548076229005313"
+    },
+    {
+      "handle": "mexczh",
+      "platform": 0,
+      "user_id": "1454277427987767297"
+    },
+    {
+      "handle": "binance_intern",
+      "platform": 0,
+      "user_id": "1454876004279848966",
+      "borderColor": "#fbff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "orbofi",
+      "platform": 0,
+      "user_id": "1454944282310291461",
+      "borderColor": "#00ffcc",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "lijiuer1",
+      "platform": 0,
+      "user_id": "1455511851798863888"
+    },
+    {
+      "handle": "0xaa_science",
+      "platform": 0,
+      "user_id": "1456122941192605705"
+    },
+    {
+      "handle": "0xfacairiji",
+      "platform": 0,
+      "user_id": "1456507428208398336"
+    },
+    {
+      "handle": "colinwu",
+      "platform": 0,
+      "user_id": "1457238121679302657"
+    },
+    {
+      "handle": "19ys_ggboy",
+      "platform": 0,
+      "user_id": "1457789697556631552"
+    },
+    {
+      "handle": "okxchinese",
+      "platform": 0,
+      "user_id": "1461224994705649671",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "tonkeeper",
+      "platform": 0,
+      "user_id": "1462751018421309441"
+    },
+    {
+      "handle": "yolo_7_",
+      "platform": 0,
+      "user_id": "1464560133011394564"
+    },
+    {
+      "handle": "caosishabi123",
+      "platform": 0,
+      "user_id": "1464639270"
+    },
+    {
+      "handle": "huahuayjy",
+      "platform": 0,
+      "user_id": "1466673394649559040",
+      "borderColor": "#00ffb3",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "shirleyxbt",
+      "platform": 0,
+      "user_id": "1467482541624291328"
+    },
+    {
+      "handle": "_pogai_",
+      "platform": 0,
+      "user_id": "1468959775492771851"
+    },
+    {
+      "handle": "7elevenhwuw",
+      "platform": 0,
+      "user_id": "1469085688230723587"
+    },
+    {
+      "handle": "0xweiqigaoshou",
+      "platform": 0,
+      "user_id": "1469574533816352770"
+    },
+    {
+      "handle": "2442lll",
+      "platform": 0,
+      "user_id": "1470636843905740804"
+    },
+    {
+      "handle": "a1lon9",
+      "platform": 0,
+      "user_id": "1470958472409792515"
+    },
+    {
+      "handle": "0xcherry",
+      "platform": 0,
+      "user_id": "1471539163170488321"
+    },
+    {
+      "handle": "itseasypop",
+      "platform": 0,
+      "user_id": "1472051153991049221",
+      "borderColor": "#00ff9d",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "chinaorgcn",
+      "platform": 0,
+      "user_id": "147491390",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "hwbehrens",
+      "platform": 0,
+      "user_id": "14761650"
+    },
+    {
+      "handle": "evans666666",
+      "platform": 0,
+      "user_id": "1478363651291504642",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cady_btc",
+      "platform": 0,
+      "user_id": "1479620132616163331"
+    },
+    {
+      "handle": "toncommunity",
+      "platform": 0,
+      "user_id": "1483218497027002370"
+    },
+    {
+      "handle": "bwenews",
+      "platform": 0,
+      "user_id": "1483495485889564674",
+      "borderColor": "#fbff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "futuredotnews",
+      "platform": 0,
+      "user_id": "1483695499442286592"
+    },
+    {
+      "handle": "momonosekaiii",
+      "platform": 0,
+      "user_id": "1485195571313123329"
+    },
+    {
+      "handle": "cryptokillua99",
+      "platform": 0,
+      "user_id": "1486750709513084928"
+    },
+    {
+      "handle": "yuyue_chris",
+      "platform": 0,
+      "user_id": "1490949502261665792"
+    },
+    {
+      "handle": "diyi_community",
+      "platform": 0,
+      "user_id": "1491726224023953408"
+    },
+    {
+      "handle": "fanqie16888",
+      "platform": 0,
+      "user_id": "1492409750541115397"
+    },
+    {
+      "handle": "binancevip",
+      "platform": 0,
+      "user_id": "1493506719393071107",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "zhudahai5667",
+      "platform": 0,
+      "user_id": "1493545889679347716"
+    },
+    {
+      "handle": "evavvvva",
+      "platform": 0,
+      "user_id": "1499060788564135939"
+    },
+    {
+      "handle": "eowynchen",
+      "platform": 0,
+      "user_id": "1499546397691072517"
+    },
+    {
+      "handle": "zenithton",
+      "platform": 0,
+      "user_id": "1500211791573491712",
+      "remark": {
+        "name": "ton生态社区lead",
+        "color": "#F8B951"
+      }
+    },
+    {
+      "handle": "0xleff",
+      "platform": 0,
+      "user_id": "1502978072286724096"
+    },
+    {
+      "handle": "ai_9684xtpa",
+      "platform": 0,
+      "user_id": "1503362006191026180"
+    },
+    {
+      "handle": "jason_chen998",
+      "platform": 0,
+      "user_id": "1505829104737685505"
+    },
+    {
+      "handle": "xiaomustock",
+      "platform": 0,
+      "user_id": "1507631541303713793"
+    },
+    {
+      "handle": "solpranter",
+      "platform": 0,
+      "user_id": "1508105859309604868"
+    },
+    {
+      "handle": "jiaojiaojio",
+      "platform": 0,
+      "user_id": "1509319325098078208"
+    },
+    {
+      "handle": "enheng456",
+      "platform": 0,
+      "user_id": "1509912900038582272",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancedesi",
+      "platform": 0,
+      "user_id": "1512460936795226123"
+    },
+    {
+      "handle": "binanceitalian",
+      "platform": 0,
+      "user_id": "1513870245764775951"
+    },
+    {
+      "handle": "panewslab",
+      "platform": 0,
+      "user_id": "1514857069446590465",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mubarak_cto",
+      "platform": 0,
+      "user_id": "151517664"
+    },
+    {
+      "handle": "wolfyxbt",
+      "platform": 0,
+      "user_id": "1516941936971554817"
+    },
+    {
+      "handle": "eng_china5",
+      "platform": 0,
+      "user_id": "1517523151219044353",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bidaoofficial",
+      "platform": 0,
+      "user_id": "1519277855532011521"
+    },
+    {
+      "handle": "gate_zh",
+      "platform": 0,
+      "user_id": "1521726436989898754"
+    },
+    {
+      "handle": "zachwitkoff",
+      "platform": 0,
+      "user_id": "1521842620410089472",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "evankinney",
+      "platform": 0,
+      "user_id": "15315086"
+    },
+    {
+      "handle": "pdchinese",
+      "platform": 0,
+      "user_id": "1531801543",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "pxstar_",
+      "platform": 0,
+      "user_id": "1532224406188982272",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "v_bnbchain",
+      "platform": 0,
+      "user_id": "1532760025311195136"
+    },
+    {
+      "handle": "lebinancefr",
+      "platform": 0,
+      "user_id": "1534513166222098432"
+    },
+    {
+      "handle": "shenshou888",
+      "platform": 0,
+      "user_id": "1535987541232750592"
+    },
+    {
+      "handle": "cis_binance",
+      "platform": 0,
+      "user_id": "1536715396937568257",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "basezh",
+      "platform": 0,
+      "user_id": "1537051977263235072",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mog_china",
+      "platform": 0,
+      "user_id": "1538882255367593984",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "guigudao",
+      "platform": 0,
+      "user_id": "1543244087976816640"
+    },
+    {
+      "handle": "nikshepsvn",
+      "platform": 0,
+      "user_id": "1544886524797403136"
+    },
+    {
+      "handle": "huobiglobal",
+      "platform": 0,
+      "user_id": "1546055871955800065"
+    },
+    {
+      "handle": "owen_okx",
+      "platform": 0,
+      "user_id": "1546342560175882240"
+    },
+    {
+      "handle": "shentengcrypto",
+      "platform": 0,
+      "user_id": "1550411018236416000"
+    },
+    {
+      "handle": "bonkfun_zh",
+      "platform": 0,
+      "user_id": "1553240812494135298"
+    },
+    {
+      "handle": "bonk_inu",
+      "platform": 0,
+      "user_id": "1553567565577854976"
+    },
+    {
+      "handle": "okxwallet_cn",
+      "platform": 0,
+      "user_id": "1554679425043943424",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "runecrypto_",
+      "platform": 0,
+      "user_id": "1556788003779010560"
+    },
+    {
+      "handle": "livinoffwater",
+      "platform": 0,
+      "user_id": "1562047591831195650",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dhsgov",
+      "platform": 0,
+      "user_id": "15647676",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ag_dwf",
+      "platform": 0,
+      "user_id": "1565412372260569093"
+    },
+    {
+      "handle": "finnbags",
+      "platform": 0,
+      "user_id": "1565429759147851776",
+      "borderColor": "#00ffb3",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bnbchaindevs",
+      "platform": 0,
+      "user_id": "1567084556150259713"
+    },
+    {
+      "handle": "6551news",
+      "platform": 0,
+      "user_id": "1568600821918744577",
+      "borderColor": "#fff700",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "shletsmeet",
+      "platform": 0,
+      "user_id": "1569434143540531200"
+    },
+    {
+      "handle": "btcpubg123",
+      "platform": 0,
+      "user_id": "1573901207482966016"
+    },
+    {
+      "handle": "tc8880",
+      "platform": 0,
+      "user_id": "1577397374951256064"
+    },
+    {
+      "handle": "ruanyf",
+      "platform": 0,
+      "user_id": "1580781"
+    },
+    {
+      "handle": "tsubasasbaby",
+      "platform": 0,
+      "user_id": "1585160045636907008"
+    },
+    {
+      "handle": "capyyy_capy",
+      "platform": 0,
+      "user_id": "1587223283258122241"
+    },
+    {
+      "handle": "tetsuoai",
+      "platform": 0,
+      "user_id": "1587601034339561472"
+    },
+    {
+      "handle": "yes_x_",
+      "platform": 0,
+      "user_id": "1589099493055934470"
+    },
+    {
+      "handle": "blacknredtext",
+      "platform": 0,
+      "user_id": "1590529447525875712",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "web4miko",
+      "platform": 0,
+      "user_id": "1594894138331496451"
+    },
+    {
+      "handle": "cns1952",
+      "platform": 0,
+      "user_id": "1597435105"
+    },
+    {
+      "handle": "in927772",
+      "platform": 0,
+      "user_id": "1598992505776660480"
+    },
+    {
+      "handle": "figure_robot",
+      "platform": 0,
+      "user_id": "1602443956888817665"
+    },
+    {
+      "handle": "misternarcos",
+      "platform": 0,
+      "user_id": "1602454430321938432"
+    },
+    {
+      "handle": "techdevnotes",
+      "platform": 0,
+      "user_id": "1604863807574212611"
+    },
+    {
+      "handle": "sama",
+      "platform": 0,
+      "user_id": "1605",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "trustwalletzh",
+      "platform": 0,
+      "user_id": "1610112513802403844",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancees",
+      "platform": 0,
+      "user_id": "1612455947527397377"
+    },
+    {
+      "handle": "we_love_gg_snsd",
+      "platform": 0,
+      "user_id": "1612483608"
+    },
+    {
+      "handle": "genius_sirenbsc",
+      "platform": 0,
+      "user_id": "1613818885"
+    },
+    {
+      "handle": "myshell_ai",
+      "platform": 0,
+      "user_id": "1616647371081027588"
+    },
+    {
+      "handle": "ntakaaze",
+      "platform": 0,
+      "user_id": "1618840851836473344"
+    },
+    {
+      "handle": "supermam88",
+      "platform": 0,
+      "user_id": "1621167657667141632",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "pumpfun",
+      "platform": 0,
+      "user_id": "1622243071806128131"
+    },
+    {
+      "handle": "nakmf61899276",
+      "platform": 0,
+      "user_id": "1622514843025825793"
+    },
+    {
+      "handle": "afpost",
+      "platform": 0,
+      "user_id": "1622588070246641666"
+    },
+    {
+      "handle": "okmetom",
+      "platform": 0,
+      "user_id": "1622926421072154625"
+    },
+    {
+      "handle": "kabosumama",
+      "platform": 0,
+      "user_id": "162378259",
+      "borderColor": "#00ddfa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "yerasylamanbek",
+      "platform": 0,
+      "user_id": "1624083381024698377",
+      "borderColor": "#00ff91",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "hashnewshk",
+      "platform": 0,
+      "user_id": "1624286098737483778"
+    },
+    {
+      "handle": "cfm_sol",
+      "platform": 0,
+      "user_id": "1624959407594274818"
+    },
+    {
+      "handle": "creepydotorg",
+      "platform": 0,
+      "user_id": "1625843518643085312",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "btc100w100w",
+      "platform": 0,
+      "user_id": "1627834175721185280"
+    },
+    {
+      "handle": "xiaoyibtc",
+      "platform": 0,
+      "user_id": "1627996483386769408",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "base",
+      "platform": 0,
+      "user_id": "1628067904083181570",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "crypto_cat888",
+      "platform": 0,
+      "user_id": "1632296925826543618"
+    },
+    {
+      "handle": "binance_nzl",
+      "platform": 0,
+      "user_id": "1632994565924990977"
+    },
+    {
+      "handle": "run1ooooo1",
+      "platform": 0,
+      "user_id": "1634619334705442817",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "meonbtc",
+      "platform": 0,
+      "user_id": "1636717234054656000"
+    },
+    {
+      "handle": "cl_clacl",
+      "platform": 0,
+      "user_id": "1637116881839738882"
+    },
+    {
+      "handle": "prguitarman",
+      "platform": 0,
+      "user_id": "16432034"
+    },
+    {
+      "handle": "eth200000",
+      "platform": 0,
+      "user_id": "1644237739209138176"
+    },
+    {
+      "handle": "xiaoyu_184cm",
+      "platform": 0,
+      "user_id": "1646809651995115521"
+    },
+    {
+      "handle": "jameswynnreal",
+      "platform": 0,
+      "user_id": "1646945251305873408"
+    },
+    {
+      "handle": "durov",
+      "platform": 0,
+      "user_id": "16477634",
+      "remark": {
+        "name": "Tg创始人durov",
+        "color": "#F8B951"
+      },
+      "borderColor": "#00aaff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "chl21563",
+      "platform": 0,
+      "user_id": "1648927096365015041"
+    },
+    {
+      "handle": "0xsandy1913",
+      "platform": 0,
+      "user_id": "1649345004094251009",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dogwifcoin",
+      "platform": 0,
+      "user_id": "1650331044971773952"
+    },
+    {
+      "handle": "snake_bnb",
+      "platform": 0,
+      "user_id": "1651251308912066560"
+    },
+    {
+      "handle": "0xpicklecati",
+      "platform": 0,
+      "user_id": "1651961782208954373"
+    },
+    {
+      "handle": "egll_american",
+      "platform": 0,
+      "user_id": "1653279412010487809",
+      "borderColor": "#00b3ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "goodman_0221",
+      "platform": 0,
+      "user_id": "1653329217181081606"
+    },
+    {
+      "handle": "buchixigua22",
+      "platform": 0,
+      "user_id": "1654303349586403330"
+    },
+    {
+      "handle": "cccccccccfk",
+      "platform": 0,
+      "user_id": "1655048020520767488"
+    },
+    {
+      "handle": "gmgnai",
+      "platform": 0,
+      "user_id": "1656210167816650754",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jxs1688",
+      "platform": 0,
+      "user_id": "1656528559593205760"
+    },
+    {
+      "handle": "bazingahappy",
+      "platform": 0,
+      "user_id": "1656533508846923777"
+    },
+    {
+      "handle": "btc2ai",
+      "platform": 0,
+      "user_id": "1659207187330379778"
+    },
+    {
+      "handle": "tesla_ai",
+      "platform": 0,
+      "user_id": "1659653864138612761"
+    },
+    {
+      "handle": "ambxiefeng",
+      "platform": 0,
+      "user_id": "1660744054185906207"
+    },
+    {
+      "handle": "spacexai",
+      "platform": 0,
+      "user_id": "1661523610111193088"
+    },
+    {
+      "handle": "0xexcellent1",
+      "platform": 0,
+      "user_id": "1661579031886852098"
+    },
+    {
+      "handle": "solana_zh",
+      "platform": 0,
+      "user_id": "1661767485346160641"
+    },
+    {
+      "handle": "unibase_ai",
+      "platform": 0,
+      "user_id": "1664541559554183173"
+    },
+    {
+      "handle": "usat",
+      "platform": 0,
+      "user_id": "1669284569760112640",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "tokoaxxx",
+      "platform": 0,
+      "user_id": "1676862844669923328"
+    },
+    {
+      "handle": "shoalst0ne",
+      "platform": 0,
+      "user_id": "1681312296436662288"
+    },
+    {
+      "handle": "lukexiao0",
+      "platform": 0,
+      "user_id": "1681995248237461504",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "trumpdailyposts",
+      "platform": 0,
+      "user_id": "1686901686185721857",
+      "borderColor": "#00aaff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jin88up",
+      "platform": 0,
+      "user_id": "1688535688277315584"
+    },
+    {
+      "handle": "web3shenqing",
+      "platform": 0,
+      "user_id": "1688916563657928704"
+    },
+    {
+      "handle": "telegram",
+      "platform": 0,
+      "user_id": "1689053928",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "aryonserwin",
+      "platform": 0,
+      "user_id": "1690073546"
+    },
+    {
+      "handle": "xxy177",
+      "platform": 0,
+      "user_id": "1691056639804399616"
+    },
+    {
+      "handle": "quyin535731",
+      "platform": 0,
+      "user_id": "1692539265522307072"
+    },
+    {
+      "handle": "_binancejapan",
+      "platform": 0,
+      "user_id": "1694152430081204224",
+      "borderColor": "#00fad0",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "biantugou",
+      "platform": 0,
+      "user_id": "1696033045541720065"
+    },
+    {
+      "handle": "chuddzz",
+      "platform": 0,
+      "user_id": "1696428852"
+    },
+    {
+      "handle": "kanyewest",
+      "platform": 0,
+      "user_id": "169686021"
+    },
+    {
+      "handle": "blankspeaker",
+      "platform": 0,
+      "user_id": "1699889909627269120",
+      "remark": {
+        "name": "spacexai社区mod",
+        "color": "#F8B951"
+      },
+      "sound": "Cheer"
+    },
+    {
+      "handle": "followin_io_zh",
+      "platform": 0,
+      "user_id": "1700404534399614976"
+    },
+    {
+      "handle": "btc_789",
+      "platform": 0,
+      "user_id": "1702017023721750528",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "wujie12141",
+      "platform": 0,
+      "user_id": "1717190513223401472"
+    },
+    {
+      "handle": "xiocrypto",
+      "platform": 0,
+      "user_id": "1720074881356726272"
+    },
+    {
+      "handle": "sunshinebinance",
+      "platform": 0,
+      "user_id": "1720470243884077056",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dianabinance",
+      "platform": 0,
+      "user_id": "1720475279603257344",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "amandabinance",
+      "platform": 0,
+      "user_id": "1720477530472255494"
+    },
+    {
+      "handle": "binance_th_",
+      "platform": 0,
+      "user_id": "1721796880806621184"
+    },
+    {
+      "handle": "robinhood_uk",
+      "platform": 0,
+      "user_id": "1724511580061417472",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "roboforce_ai",
+      "platform": 0,
+      "user_id": "1725224626333290497",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "potatoswap_fi",
+      "platform": 0,
+      "user_id": "1726132046056083456"
+    },
+    {
+      "handle": "xiejiayinbitget",
+      "platform": 0,
+      "user_id": "1727120087663116288"
+    },
+    {
+      "handle": "foliage_et",
+      "platform": 0,
+      "user_id": "1727594916879167488",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "digua1992_",
+      "platform": 0,
+      "user_id": "1728886050498752512"
+    },
+    {
+      "handle": "ccweb3hub",
+      "platform": 0,
+      "user_id": "1729033123143565312"
+    },
+    {
+      "handle": "kucoin",
+      "platform": 0,
+      "user_id": "1729411409862082560"
+    },
+    {
+      "handle": "oooooyoung11",
+      "platform": 0,
+      "user_id": "1730014846899650560"
+    },
+    {
+      "handle": "henryma79561893",
+      "platform": 0,
+      "user_id": "1734594615569764352",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xnono_1",
+      "platform": 0,
+      "user_id": "1735683644289953792"
+    },
+    {
+      "handle": "mostjiaodu",
+      "platform": 0,
+      "user_id": "1737713854392721408"
+    },
+    {
+      "handle": "sichuan6900",
+      "platform": 0,
+      "user_id": "1745952241037508608"
+    },
+    {
+      "handle": "xmoney",
+      "platform": 0,
+      "user_id": "1748062675848888321"
+    },
+    {
+      "handle": "jiamixionger",
+      "platform": 0,
+      "user_id": "1748849425966141440"
+    },
+    {
+      "handle": "flapdotsh",
+      "platform": 0,
+      "user_id": "1749114887807320064",
+      "borderColor": "#00b3ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xmemeyukun",
+      "platform": 0,
+      "user_id": "1751562804761657344"
+    },
+    {
+      "handle": "dogeos",
+      "platform": 0,
+      "user_id": "1752736116925468674"
+    },
+    {
+      "handle": "vera548926",
+      "platform": 0,
+      "user_id": "1754187061538770944"
+    },
+    {
+      "handle": "oringold_",
+      "platform": 0,
+      "user_id": "1754785813290754050"
+    },
+    {
+      "handle": "zephyrtrading",
+      "platform": 0,
+      "user_id": "1755186363085783040"
+    },
+    {
+      "handle": "theunipcs",
+      "platform": 0,
+      "user_id": "1755899659040555009",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cryptomoon520",
+      "platform": 0,
+      "user_id": "1759195978903797760"
+    },
+    {
+      "handle": "0xtechmelon",
+      "platform": 0,
+      "user_id": "1760673995194843137",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "tronn_lyu",
+      "platform": 0,
+      "user_id": "1763845957257682945",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dyorswapdex",
+      "platform": 0,
+      "user_id": "1764584799480561664",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "giggleacademy",
+      "platform": 0,
+      "user_id": "1768225083016024064",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "a8_pedro",
+      "platform": 0,
+      "user_id": "1768802827361730560"
+    },
+    {
+      "handle": "ansem",
+      "platform": 0,
+      "user_id": "1773480017659629571"
+    },
+    {
+      "handle": "ashlynhe1129",
+      "platform": 0,
+      "user_id": "1775457158563274752"
+    },
+    {
+      "handle": "swpsd22871656",
+      "platform": 0,
+      "user_id": "1778616938429898752"
+    },
+    {
+      "handle": "webwyzu",
+      "platform": 0,
+      "user_id": "1780761647688388609",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cryptosunova",
+      "platform": 0,
+      "user_id": "1783511827432849408"
+    },
+    {
+      "handle": "monad_eco",
+      "platform": 0,
+      "user_id": "1785401963938447360",
+      "borderColor": "#00fffb",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "webhogwatrs",
+      "platform": 0,
+      "user_id": "1787167123665809408"
+    },
+    {
+      "handle": "aster_dex",
+      "platform": 0,
+      "user_id": "1789908971953799168",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "meadgod",
+      "platform": 0,
+      "user_id": "1792724913528172544",
+      "borderColor": "#00fffb",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "noxa_fi",
+      "platform": 0,
+      "user_id": "1794389910943637504",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "licienji",
+      "platform": 0,
+      "user_id": "1795717587008909313"
+    },
+    {
+      "handle": "mintclub002",
+      "platform": 0,
+      "user_id": "1796943871441833984"
+    },
+    {
+      "handle": "flap_ch",
+      "platform": 0,
+      "user_id": "1798485533426876416"
+    },
+    {
+      "handle": "niaoshen988",
+      "platform": 0,
+      "user_id": "1802154342805618688"
+    },
+    {
+      "handle": "truth_terminal",
+      "platform": 0,
+      "user_id": "1802642686710837249"
+    },
+    {
+      "handle": "betmoardotfun",
+      "platform": 0,
+      "user_id": "1802727210446651392"
+    },
+    {
+      "handle": "btchongyun",
+      "platform": 0,
+      "user_id": "1803759796354768896"
+    },
+    {
+      "handle": "openainewsroom",
+      "platform": 0,
+      "user_id": "1803847768781524992"
+    },
+    {
+      "handle": "four_meme_",
+      "platform": 0,
+      "user_id": "1804029868642045956",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "huigendeshen",
+      "platform": 0,
+      "user_id": "1806508121986314240"
+    },
+    {
+      "handle": "repmichaelrulli",
+      "platform": 0,
+      "user_id": "1808142093744852992"
+    },
+    {
+      "handle": "straw_hat1688",
+      "platform": 0,
+      "user_id": "1809620558574960640"
+    },
+    {
+      "handle": "jt588888",
+      "platform": 0,
+      "user_id": "1810820629136035841"
+    },
+    {
+      "handle": "aggrnews",
+      "platform": 0,
+      "user_id": "1814331229166002177",
+      "borderColor": "#fff700",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "gewortra",
+      "platform": 0,
+      "user_id": "1815794848701501440",
+      "borderColor": "#00b3ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "fourdotmemezh",
+      "platform": 0,
+      "user_id": "1816036559864619011",
+      "borderColor": "#00ffb3",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "axopq74224",
+      "platform": 0,
+      "user_id": "1816054888352337920"
+    },
+    {
+      "handle": "tjohnsiii",
+      "platform": 0,
+      "user_id": "1816110579154837509"
+    },
+    {
+      "handle": "worldlibertyfi",
+      "platform": 0,
+      "user_id": "1816138985342705664"
+    },
+    {
+      "handle": "predictdotfun",
+      "platform": 0,
+      "user_id": "1817986808787124230",
+      "borderColor": "#00d0fa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "xfreeze",
+      "platform": 0,
+      "user_id": "1818311005698678784"
+    },
+    {
+      "handle": "sciencedegens",
+      "platform": 0,
+      "user_id": "1818370740854702083",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "usdc",
+      "platform": 0,
+      "user_id": "1819490209643270144",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "btcdyz",
+      "platform": 0,
+      "user_id": "1820884595958820864",
+      "borderColor": "#00fae9",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancemoonbix",
+      "platform": 0,
+      "user_id": "1826980434749636608"
+    },
+    {
+      "handle": "shawmakesmagic",
+      "platform": 0,
+      "user_id": "1830340867737178112",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "and_khamoo",
+      "platform": 0,
+      "user_id": "1830865334594871297"
+    },
+    {
+      "handle": "lidaimei_",
+      "platform": 0,
+      "user_id": "1835367278046851072"
+    },
+    {
+      "handle": "sol_lucky_",
+      "platform": 0,
+      "user_id": "1843926909744467968"
+    },
+    {
+      "handle": "cryptoht88",
+      "platform": 0,
+      "user_id": "1845499111866503168"
+    },
+    {
+      "handle": "lucidxpl",
+      "platform": 0,
+      "user_id": "1846887413412413442"
+    },
+    {
+      "handle": "pieverse_io",
+      "platform": 0,
+      "user_id": "1846966319251705857",
+      "borderColor": "#00e9fa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "a9xiaohui",
+      "platform": 0,
+      "user_id": "1848717722823364610"
+    },
+    {
+      "handle": "binancelabs",
+      "platform": 0,
+      "user_id": "1852207540475498496",
+      "borderColor": "#ffea00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "xigua0903",
+      "platform": 0,
+      "user_id": "1854765106292563968"
+    },
+    {
+      "handle": "sure5j",
+      "platform": 0,
+      "user_id": "1861795780396503040"
+    },
+    {
+      "handle": "bnbchainzh",
+      "platform": 0,
+      "user_id": "1862461820855820288",
+      "borderColor": "#fff700",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "pxj888",
+      "platform": 0,
+      "user_id": "1862506402046255106"
+    },
+    {
+      "handle": "zhaojiaoduderen",
+      "platform": 0,
+      "user_id": "1863922414955958272"
+    },
+    {
+      "handle": "kimi_moonshot",
+      "platform": 0,
+      "user_id": "1863959670169501696",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "qiyumeme",
+      "platform": 0,
+      "user_id": "1864688120433901568"
+    },
+    {
+      "handle": "yesp999",
+      "platform": 0,
+      "user_id": "1864710861686009856"
+    },
+    {
+      "handle": "0x3kyo",
+      "platform": 0,
+      "user_id": "1865021764562296833",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "kathy_aster",
+      "platform": 0,
+      "user_id": "1866822293969948672"
+    },
+    {
+      "handle": "rtk17025",
+      "platform": 0,
+      "user_id": "1867119476598353920"
+    },
+    {
+      "handle": "pe___lu",
+      "platform": 0,
+      "user_id": "1868321401670623232",
+      "borderColor": "#00e7eb",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ggcceoooo",
+      "platform": 0,
+      "user_id": "1868532343365144576"
+    },
+    {
+      "handle": "crysta76569",
+      "platform": 0,
+      "user_id": "1871796117748301824"
+    },
+    {
+      "handle": "digua1991",
+      "platform": 0,
+      "user_id": "1872501769839976448"
+    },
+    {
+      "handle": "monad_dev",
+      "platform": 0,
+      "user_id": "1873810196125876225",
+      "borderColor": "#00ffcc",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "minimax_ai",
+      "platform": 0,
+      "user_id": "1875078099538423808",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "gettrumpmemes",
+      "platform": 0,
+      "user_id": "1875532595322130432",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dmdotfun",
+      "platform": 0,
+      "user_id": "1876365731962724352"
+    },
+    {
+      "handle": "binancepoland",
+      "platform": 0,
+      "user_id": "1876923799301718016"
+    },
+    {
+      "handle": "ak_pony33319",
+      "platform": 0,
+      "user_id": "1877081083621289984"
+    },
+    {
+      "handle": "0xsakura666",
+      "platform": 0,
+      "user_id": "1877637819310739456",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "feibo03",
+      "platform": 0,
+      "user_id": "1877978075557945344"
+    },
+    {
+      "handle": "i0ybz0",
+      "platform": 0,
+      "user_id": "1879044668874473472"
+    },
+    {
+      "handle": "whitehouse",
+      "platform": 0,
+      "user_id": "1879644163769335808",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "feng188666",
+      "platform": 0,
+      "user_id": "1879806846967664640"
+    },
+    {
+      "handle": "yuren1021",
+      "platform": 0,
+      "user_id": "1881194949519282176"
+    },
+    {
+      "handle": "poptyedev",
+      "platform": 0,
+      "user_id": "1881230413743747072",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xfelix",
+      "platform": 0,
+      "user_id": "1881657161857875968",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jasonle714403",
+      "platform": 0,
+      "user_id": "1881867289164967938"
+    },
+    {
+      "handle": "wei_crypto8888",
+      "platform": 0,
+      "user_id": "1884879806401216512"
+    },
+    {
+      "handle": "king1883560",
+      "platform": 0,
+      "user_id": "1887673324979036164"
+    },
+    {
+      "handle": "jessepollak",
+      "platform": 0,
+      "user_id": "18876842",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "lanaaielsa",
+      "platform": 0,
+      "user_id": "1888258491745181696"
+    },
+    {
+      "handle": "nexta_tv",
+      "platform": 0,
+      "user_id": "1891490382"
+    },
+    {
+      "handle": "ir_news2",
+      "platform": 0,
+      "user_id": "1892835664062009344"
+    },
+    {
+      "handle": "juesaiquan",
+      "platform": 0,
+      "user_id": "1895005913964257280"
+    },
+    {
+      "handle": "aveai_info",
+      "platform": 0,
+      "user_id": "1895368997794930688",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "linwanwan823",
+      "platform": 0,
+      "user_id": "1899739859084103680"
+    },
+    {
+      "handle": "guduchaobi1015",
+      "platform": 0,
+      "user_id": "1901101952622358528"
+    },
+    {
+      "handle": "100x666888",
+      "platform": 0,
+      "user_id": "1903896395775717376"
+    },
+    {
+      "handle": "four_meme_fora",
+      "platform": 0,
+      "user_id": "1904127228113563649",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bonkfun",
+      "platform": 0,
+      "user_id": "1904240277117628416"
+    },
+    {
+      "handle": "leonard_aster",
+      "platform": 0,
+      "user_id": "1906645086353670144",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "hunterweb303",
+      "platform": 0,
+      "user_id": "1907289862396579840"
+    },
+    {
+      "handle": "xscharo",
+      "platform": 0,
+      "user_id": "1909201009131618304"
+    },
+    {
+      "handle": "zhuzaia",
+      "platform": 0,
+      "user_id": "1909433233726750720"
+    },
+    {
+      "handle": "o1_exchange",
+      "platform": 0,
+      "user_id": "1912279732995125248",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "buildonbsc_ai",
+      "platform": 0,
+      "user_id": "1913910316737724416"
+    },
+    {
+      "handle": "shanghaidaily",
+      "platform": 0,
+      "user_id": "19140447",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "monad_apac",
+      "platform": 0,
+      "user_id": "1915012727065714688",
+      "borderColor": "#00b0eb",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mulerun_ai",
+      "platform": 0,
+      "user_id": "1917061030464917504",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bob_bnbbuilder",
+      "platform": 0,
+      "user_id": "1919019881451909120"
+    },
+    {
+      "handle": "trenchdiver101",
+      "platform": 0,
+      "user_id": "1919532762547286016"
+    },
+    {
+      "handle": "stambouli_o1",
+      "platform": 0,
+      "user_id": "1920960399140417536",
+      "borderColor": "#00f5d8",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bvrakvs",
+      "platform": 0,
+      "user_id": "1924792908277813248"
+    },
+    {
+      "handle": "pancakeswapzh",
+      "platform": 0,
+      "user_id": "1927618737827442688",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "the_nof1",
+      "platform": 0,
+      "user_id": "1931093663733686272"
+    },
+    {
+      "handle": "reljoooo",
+      "platform": 0,
+      "user_id": "1932156461267972096"
+    },
+    {
+      "handle": "0xssn",
+      "platform": 0,
+      "user_id": "1933265065266065409"
+    },
+    {
+      "handle": "klik_evm",
+      "platform": 0,
+      "user_id": "1933299267650924547",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "xlhtzyy",
+      "platform": 0,
+      "user_id": "1934603072480948224"
+    },
+    {
+      "handle": "bnbfdn",
+      "platform": 0,
+      "user_id": "1938305454716948483"
+    },
+    {
+      "handle": "aleabitoreddit",
+      "platform": 0,
+      "user_id": "1940360837547565056",
+      "borderColor": "#00f0c8",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "v",
+      "platform": 0,
+      "user_id": "1944251472033853442"
+    },
+    {
+      "handle": "huchenfeng_",
+      "platform": 0,
+      "user_id": "1945451513297657856",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "em11991590",
+      "platform": 0,
+      "user_id": "1946177903282339840"
+    },
+    {
+      "handle": "a8yomi",
+      "platform": 0,
+      "user_id": "1946862658608824320"
+    },
+    {
+      "handle": "0xmenglei",
+      "platform": 0,
+      "user_id": "1946910198528143360"
+    },
+    {
+      "handle": "baseposting",
+      "platform": 0,
+      "user_id": "1947399584256503808",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xdylan_",
+      "platform": 0,
+      "user_id": "1949225232562094080",
+      "borderColor": "#0084ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "livopad",
+      "platform": 0,
+      "user_id": "1952884228485726208",
+      "borderColor": "#00e0f0",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "arc",
+      "platform": 0,
+      "user_id": "1953277675533107200",
+      "borderColor": "#00f5d8",
+      "sound": "Boom"
+    },
+    {
+      "handle": "rick_binance",
+      "platform": 0,
+      "user_id": "1953726213085966340",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dong7da7",
+      "platform": 0,
+      "user_id": "1954380787220180993"
+    },
+    {
+      "handle": "themonkdan",
+      "platform": 0,
+      "user_id": "1954655439251247104"
+    },
+    {
+      "handle": "0xzhangcrypto1",
+      "platform": 0,
+      "user_id": "1954918628392144896"
+    },
+    {
+      "handle": "servicetrenches",
+      "platform": 0,
+      "user_id": "1956071818416263168"
+    },
+    {
+      "handle": "0xlaolv",
+      "platform": 0,
+      "user_id": "1956085623267450880"
+    },
+    {
+      "handle": "s93curib8dp67lv",
+      "platform": 0,
+      "user_id": "1956415265216098304"
+    },
+    {
+      "handle": "easyresidency",
+      "platform": 0,
+      "user_id": "1956565318014234624",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "42_mandarin",
+      "platform": 0,
+      "user_id": "1958732268249522178",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "m",
+      "platform": 0,
+      "user_id": "1959113087094857729"
+    },
+    {
+      "handle": "cointelegraph03",
+      "platform": 0,
+      "user_id": "1959900265106341888"
+    },
+    {
+      "handle": "richd3l007",
+      "platform": 0,
+      "user_id": "1965083888776044544"
+    },
+    {
+      "handle": "kristenblow_",
+      "platform": 0,
+      "user_id": "1965743729538719744"
+    },
+    {
+      "handle": "xiaoyabtc",
+      "platform": 0,
+      "user_id": "1968685797839974400"
+    },
+    {
+      "handle": "gigglefundbsc",
+      "platform": 0,
+      "user_id": "1969868266949525504"
+    },
+    {
+      "handle": "binancelntl",
+      "platform": 0,
+      "user_id": "1972944703914967040"
+    },
+    {
+      "handle": "binanceforin",
+      "platform": 0,
+      "user_id": "1973602061930602498",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "usduc_official",
+      "platform": 0,
+      "user_id": "1973659931115970560"
+    },
+    {
+      "handle": "obara",
+      "platform": 0,
+      "user_id": "1975117493690564608"
+    },
+    {
+      "handle": "ttlife888",
+      "platform": 0,
+      "user_id": "1977190175764889601"
+    },
+    {
+      "handle": "xagentbsc",
+      "platform": 0,
+      "user_id": "1977368866465460225",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "utechstables",
+      "platform": 0,
+      "user_id": "1977836711510941696",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "sencrazy_1",
+      "platform": 0,
+      "user_id": "1978002137092411392",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "zhaocaidev",
+      "platform": 0,
+      "user_id": "1978275566802321408"
+    },
+    {
+      "handle": "0xprobable",
+      "platform": 0,
+      "user_id": "1980890801027874816"
+    },
+    {
+      "handle": "nofa_ai",
+      "platform": 0,
+      "user_id": "1981037722564513797"
+    },
+    {
+      "handle": "bortonbsc",
+      "platform": 0,
+      "user_id": "1982045270960713728"
+    },
+    {
+      "handle": "jyy1716815",
+      "platform": 0,
+      "user_id": "1982401067553050624"
+    },
+    {
+      "handle": "ancobinance",
+      "platform": 0,
+      "user_id": "1982701406210699264"
+    },
+    {
+      "handle": "zastavarussia",
+      "platform": 0,
+      "user_id": "1983813657919418371"
+    },
+    {
+      "handle": "beachboyrobot",
+      "platform": 0,
+      "user_id": "1985571150425178121"
+    },
+    {
+      "handle": "binancejunior",
+      "platform": 0,
+      "user_id": "1994859139999350784",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "qbb167311",
+      "platform": 0,
+      "user_id": "1995046395758481408"
+    },
+    {
+      "handle": "openclaw",
+      "platform": 0,
+      "user_id": "1995710751097659392",
+      "borderColor": "#00ff91",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "trenches",
+      "platform": 0,
+      "user_id": "1996242172757319680"
+    },
+    {
+      "handle": "mnd_china",
+      "platform": 0,
+      "user_id": "1997946138083926016",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cha_xun92563",
+      "platform": 0,
+      "user_id": "1998289968796680192"
+    },
+    {
+      "handle": "ustableszh",
+      "platform": 0,
+      "user_id": "1998690986013372417",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dagouzhuanjia",
+      "platform": 0,
+      "user_id": "1998695143982161920"
+    },
+    {
+      "handle": "zi_gu87386",
+      "platform": 0,
+      "user_id": "1999009522376228864"
+    },
+    {
+      "handle": "nongleme007",
+      "platform": 0,
+      "user_id": "1999467209530441728"
+    },
+    {
+      "handle": "binancepipi",
+      "platform": 0,
+      "user_id": "1999939499556810752"
+    },
+    {
+      "handle": "tencentai_news",
+      "platform": 0,
+      "user_id": "2000391102923481088",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "andyayrey",
+      "platform": 0,
+      "user_id": "20006785"
+    },
+    {
+      "handle": "gmgntrenches",
+      "platform": 0,
+      "user_id": "2001213259412873216",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bsclianxisheng",
+      "platform": 0,
+      "user_id": "2005897514214645760"
+    },
+    {
+      "handle": "handlenie",
+      "platform": 0,
+      "user_id": "2009974072751599619"
+    },
+    {
+      "handle": "bnbsharefun",
+      "platform": 0,
+      "user_id": "2010024560855527427",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "shareclaims",
+      "platform": 0,
+      "user_id": "2012916878092406785",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "liangxizjdq",
+      "platform": 0,
+      "user_id": "2013874039195070464"
+    },
+    {
+      "handle": "bnbclawbiz",
+      "platform": 0,
+      "user_id": "2014078554393423872"
+    },
+    {
+      "handle": "zhijie230775",
+      "platform": 0,
+      "user_id": "2014996530852474880"
+    },
+    {
+      "handle": "moltbook",
+      "platform": 0,
+      "user_id": "2016168172773376001",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bsc_trace",
+      "platform": 0,
+      "user_id": "2017213302753914880",
+      "borderColor": "#00ff91",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "usdol",
+      "platform": 0,
+      "user_id": "20179628",
+      "borderColor": "#0afbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "imagine",
+      "platform": 0,
+      "user_id": "2019292645466730499",
+      "borderColor": "#00ffcc",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "404bsc",
+      "platform": 0,
+      "user_id": "2019733542528598016"
+    },
+    {
+      "handle": "krakenfx_zh",
+      "platform": 0,
+      "user_id": "2021531859302133760"
+    },
+    {
+      "handle": "lostmatt",
+      "platform": 0,
+      "user_id": "202189986"
+    },
+    {
+      "handle": "milady_bsc",
+      "platform": 0,
+      "user_id": "2023884945488556033",
+      "borderColor": "#00b3ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "supermanonchain",
+      "platform": 0,
+      "user_id": "2024679536110292994",
+      "borderColor": "#00f6fa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "notickernolife",
+      "platform": 0,
+      "user_id": "2028409892319715329"
+    },
+    {
+      "handle": "claw2flap",
+      "platform": 0,
+      "user_id": "2028441072251408384",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "milady_pmarkets",
+      "platform": 0,
+      "user_id": "2029536193084633088",
+      "borderColor": "#05ffe2",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "lukenosek",
+      "platform": 0,
+      "user_id": "2031052656601669632",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "octo_build",
+      "platform": 0,
+      "user_id": "2032358798112047104"
+    },
+    {
+      "handle": "bsctracewhale",
+      "platform": 0,
+      "user_id": "2032392367760912384"
+    },
+    {
+      "handle": "dingjian_dev",
+      "platform": 0,
+      "user_id": "2032700456871567360"
+    },
+    {
+      "handle": "xbubble_ai",
+      "platform": 0,
+      "user_id": "2033422661179875328"
+    },
+    {
+      "handle": "chefboba_pcs",
+      "platform": 0,
+      "user_id": "2036003618160361472"
+    },
+    {
+      "handle": "openclawby",
+      "platform": 0,
+      "user_id": "2036735543451725825"
+    },
+    {
+      "handle": "elizabao_ai",
+      "platform": 0,
+      "user_id": "2037985049253990400"
+    },
+    {
+      "handle": "pick7778",
+      "platform": 0,
+      "user_id": "2040629018777554944"
+    },
+    {
+      "handle": "4lpha_agent",
+      "platform": 0,
+      "user_id": "2040776063005917184",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "unicurvefun",
+      "platform": 0,
+      "user_id": "2045670126549159936"
+    },
+    {
+      "handle": "hangjiaodu_bsc",
+      "platform": 0,
+      "user_id": "2045793940172165120"
+    },
+    {
+      "handle": "trenchtoday01",
+      "platform": 0,
+      "user_id": "2048768329741963264",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bnbmemeguy",
+      "platform": 0,
+      "user_id": "2049623148467752960"
+    },
+    {
+      "handle": "solanamark1176",
+      "platform": 0,
+      "user_id": "2050213995051708417",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jiaoduge",
+      "platform": 0,
+      "user_id": "2050250693915602945"
+    },
+    {
+      "handle": "piggycc7",
+      "platform": 0,
+      "user_id": "2051253408771031040"
+    },
+    {
+      "handle": "kimidevs",
+      "platform": 0,
+      "user_id": "2056597138331889664",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ponsdotfamily",
+      "platform": 0,
+      "user_id": "2076794413284569089",
+      "borderColor": "#00ebc4",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "adam3us",
+      "platform": 0,
+      "user_id": "213236426"
+    },
+    {
+      "handle": "erlinghaaland",
+      "platform": 0,
+      "user_id": "2157651508",
+      "borderColor": "#00d8f5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "emiliemc",
+      "platform": 0,
+      "user_id": "21978309",
+      "borderColor": "#00eeff",
+      "sound": "Boom"
+    },
+    {
+      "handle": "cointelegraph",
+      "platform": 0,
+      "user_id": "2207129125"
+    },
+    {
+      "handle": "iam678",
+      "platform": 0,
+      "user_id": "222316578",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dogecoin",
+      "platform": 0,
+      "user_id": "2235729541",
+      "borderColor": "#04f6e6",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "vivilinsv",
+      "platform": 0,
+      "user_id": "2238470792",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xsammy",
+      "platform": 0,
+      "user_id": "223921570"
+    },
+    {
+      "handle": "cobie",
+      "platform": 0,
+      "user_id": "2259434528",
+      "borderColor": "#00db92",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "coinmarketcap",
+      "platform": 0,
+      "user_id": "2260491445",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "uusdai",
+      "platform": 0,
+      "user_id": "2274532319"
+    },
+    {
+      "handle": "vvxiaoyu8888",
+      "platform": 0,
+      "user_id": "2289550933",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "tad_2",
+      "platform": 0,
+      "user_id": "2296422165",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ethereum",
+      "platform": 0,
+      "user_id": "2312333412"
+    },
+    {
+      "handle": "nikuberu29",
+      "platform": 0,
+      "user_id": "2313108883",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "toly",
+      "platform": 0,
+      "user_id": "2327407569",
+      "borderColor": "#00d0fa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "pav_eth",
+      "platform": 0,
+      "user_id": "236066413",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "coingecko",
+      "platform": 0,
+      "user_id": "2412652615"
+    },
+    {
+      "handle": "pauliepunt",
+      "platform": 0,
+      "user_id": "2414580907"
+    },
+    {
+      "handle": "fact",
+      "platform": 0,
+      "user_id": "2425231"
+    },
+    {
+      "handle": "michaelgsantos",
+      "platform": 0,
+      "user_id": "24374950",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "saylor",
+      "platform": 0,
+      "user_id": "244647486"
+    },
+    {
+      "handle": "punk2898",
+      "platform": 0,
+      "user_id": "2446896679",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binance_alph",
+      "platform": 0,
+      "user_id": "2455775564"
+    },
+    {
+      "handle": "chnembassy_jp",
+      "platform": 0,
+      "user_id": "2459061450",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "misssheridan09",
+      "platform": 0,
+      "user_id": "24754362"
+    },
+    {
+      "handle": "jerallaire",
+      "platform": 0,
+      "user_id": "2478756618",
+      "borderColor": "#00ffcc",
+      "sound": "Boom"
+    },
+    {
+      "handle": "mgga_bsc",
+      "platform": 0,
+      "user_id": "2493289496"
+    },
+    {
+      "handle": "fortunemagazine",
+      "platform": 0,
+      "user_id": "25053299"
+    },
+    {
+      "handle": "realdonaldtrump",
+      "platform": 0,
+      "user_id": "25073877",
+      "borderColor": "#c8ff00",
+      "sound": "Yes"
+    },
+    {
+      "handle": "draffilog",
+      "platform": 0,
+      "user_id": "2524770166"
+    },
+    {
+      "handle": "steipete",
+      "platform": 0,
+      "user_id": "25401953",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dpsrescue",
+      "platform": 0,
+      "user_id": "255106105"
+    },
+    {
+      "handle": "thedankoe",
+      "platform": 0,
+      "user_id": "256523056",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ohyishi",
+      "platform": 0,
+      "user_id": "258156475",
+      "borderColor": "#00d5ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mapalubnb",
+      "platform": 0,
+      "user_id": "2594206112"
+    },
+    {
+      "handle": "mcrown",
+      "platform": 0,
+      "user_id": "263802953",
+      "remark": {
+        "name": "ton ceo",
+        "color": "#F8B951"
+      }
+    },
+    {
+      "handle": "katherine_xbt",
+      "platform": 0,
+      "user_id": "2674575608"
+    },
+    {
+      "handle": "xiangchijitui",
+      "platform": 0,
+      "user_id": "2723601043"
+    },
+    {
+      "handle": "anndylian",
+      "platform": 0,
+      "user_id": "274334177"
+    },
+    {
+      "handle": "armaniferrante",
+      "platform": 0,
+      "user_id": "276810355"
+    },
+    {
+      "handle": "amazingsichuan",
+      "platform": 0,
+      "user_id": "2775635611",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "selenselenvesln",
+      "platform": 0,
+      "user_id": "27819255"
+    },
+    {
+      "handle": "reptimmoorenc",
+      "platform": 0,
+      "user_id": "282219422",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "amazlngnature",
+      "platform": 0,
+      "user_id": "2828212668"
+    },
+    {
+      "handle": "wayland_six",
+      "platform": 0,
+      "user_id": "2887927149"
+    },
+    {
+      "handle": "theroaringkitty",
+      "platform": 0,
+      "user_id": "2902349190",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "alpacahq",
+      "platform": 0,
+      "user_id": "2903225328"
+    },
+    {
+      "handle": "amansaiofficial",
+      "platform": 0,
+      "user_id": "2924091841"
+    },
+    {
+      "handle": "albertmacgloan",
+      "platform": 0,
+      "user_id": "29275869",
+      "borderColor": "#00bfe6",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "smileydevz",
+      "platform": 0,
+      "user_id": "29341990",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "vitalikbuterin",
+      "platform": 0,
+      "user_id": "295218901",
+      "borderColor": "#00d5ff",
+      "sound": "Boom"
+    },
+    {
+      "handle": "taoradarscout",
+      "platform": 0,
+      "user_id": "2960526411"
+    },
+    {
+      "handle": "angle7544455",
+      "platform": 0,
+      "user_id": "2976645427"
+    },
+    {
+      "handle": "star_okx",
+      "platform": 0,
+      "user_id": "2985599460",
+      "borderColor": "#fbff00",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "fatihaabid",
+      "platform": 0,
+      "user_id": "2995490855"
+    },
+    {
+      "handle": "bitcoinnewscom",
+      "platform": 0,
+      "user_id": "3005014565"
+    },
+    {
+      "handle": "rajeeva_k",
+      "platform": 0,
+      "user_id": "300718030"
+    },
+    {
+      "handle": "zachxbt",
+      "platform": 0,
+      "user_id": "3012852462"
+    },
+    {
+      "handle": "nadamelinda0",
+      "platform": 0,
+      "user_id": "3016244122"
+    },
+    {
+      "handle": "silverpencil234",
+      "platform": 0,
+      "user_id": "3036704738"
+    },
+    {
+      "handle": "pdchina",
+      "platform": 0,
+      "user_id": "303862998",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "manuelstotz",
+      "platform": 0,
+      "user_id": "304560923",
+      "remark": {
+        "name": "tonx ceo",
+        "color": "#F8B951"
+      }
+    },
+    {
+      "handle": "nanolabsltd",
+      "platform": 0,
+      "user_id": "3046169107",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "billym2k",
+      "platform": 0,
+      "user_id": "30699048"
+    },
+    {
+      "handle": "ytjiaff",
+      "platform": 0,
+      "user_id": "3115761206",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "askrobinhood",
+      "platform": 0,
+      "user_id": "3118936070",
+      "borderColor": "#00ff91",
+      "sound": "Boom"
+    },
+    {
+      "handle": "cyptovvv",
+      "platform": 0,
+      "user_id": "314932173"
+    },
+    {
+      "handle": "fehrsam",
+      "platform": 0,
+      "user_id": "315991624",
+      "borderColor": "#008fd6",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "liz_binance",
+      "platform": 0,
+      "user_id": "318113681"
+    },
+    {
+      "handle": "binancetokyo",
+      "platform": 0,
+      "user_id": "3207342029"
+    },
+    {
+      "handle": "adcock_brett",
+      "platform": 0,
+      "user_id": "3222018178"
+    },
+    {
+      "handle": "puregoldshin",
+      "platform": 0,
+      "user_id": "3294324450"
+    },
+    {
+      "handle": "firstsquawk",
+      "platform": 0,
+      "user_id": "3295423333"
+    },
+    {
+      "handle": "xinhuachinese",
+      "platform": 0,
+      "user_id": "3319804777",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cobratate",
+      "platform": 0,
+      "user_id": "333357345",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bitcoinnews",
+      "platform": 0,
+      "user_id": "3367334171"
+    },
+    {
+      "handle": "luoyonghao",
+      "platform": 0,
+      "user_id": "33853845",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "echinanews",
+      "platform": 0,
+      "user_id": "338736117",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "beeple",
+      "platform": 0,
+      "user_id": "34097500"
+    },
+    {
+      "handle": "pete_rizzo_",
+      "platform": 0,
+      "user_id": "341746855",
+      "borderColor": "#06fafe",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "alibaba_cloud",
+      "platform": 0,
+      "user_id": "3421843274"
+    },
+    {
+      "handle": "damiodufuwa",
+      "platform": 0,
+      "user_id": "3468913217"
+    },
+    {
+      "handle": "spacex",
+      "platform": 0,
+      "user_id": "34743251",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bentodar",
+      "platform": 0,
+      "user_id": "352860119",
+      "borderColor": "#00b3ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bitcoin",
+      "platform": 0,
+      "user_id": "357312062"
+    },
+    {
+      "handle": "apple",
+      "platform": 0,
+      "user_id": "380749300"
+    },
+    {
+      "handle": "litecoin",
+      "platform": 0,
+      "user_id": "385562752"
+    },
+    {
+      "handle": "nprussell",
+      "platform": 0,
+      "user_id": "39040982",
+      "borderColor": "#00eeff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "donaldjtrumpjr",
+      "platform": 0,
+      "user_id": "39344374"
+    },
+    {
+      "handle": "testingcatalog",
+      "platform": 0,
+      "user_id": "3980735590"
+    },
+    {
+      "handle": "hg13131313",
+      "platform": 0,
+      "user_id": "4041496339"
+    },
+    {
+      "handle": "binancegbl",
+      "platform": 0,
+      "user_id": "42577246"
+    },
+    {
+      "handle": "elonmusk",
+      "platform": 0,
+      "user_id": "44196397",
+      "borderColor": "#ff0000",
+      "sound": "Yes"
+    },
+    {
+      "handle": "anthonytsivarev",
+      "platform": 0,
+      "user_id": "442089437",
+      "remark": {
+        "name": "ton核心开发",
+        "color": "#F8B951"
+      }
+    },
+    {
+      "handle": "bsc_jiaoduwang",
+      "platform": 0,
+      "user_id": "4592133193"
+    },
+    {
+      "handle": "felix_fan",
+      "platform": 0,
+      "user_id": "463102662",
+      "borderColor": "#00ccf5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "captvenk",
+      "platform": 0,
+      "user_id": "46359833"
+    },
+    {
+      "handle": "norachantweets",
+      "platform": 0,
+      "user_id": "480629395",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "_forab",
+      "platform": 0,
+      "user_id": "4848269835",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "xhnews",
+      "platform": 0,
+      "user_id": "487118986",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "weixin_wechat",
+      "platform": 0,
+      "user_id": "487312107",
+      "borderColor": "#e4f500",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "ovgnft",
+      "platform": 0,
+      "user_id": "4876267985"
+    },
+    {
+      "handle": "khaokheowzoo",
+      "platform": 0,
+      "user_id": "4886662988"
+    },
+    {
+      "handle": "globaltimesnews",
+      "platform": 0,
+      "user_id": "49616273",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "pepetoshi",
+      "platform": 0,
+      "user_id": "520293904"
+    },
+    {
+      "handle": "noir00329",
+      "platform": 0,
+      "user_id": "527364665"
+    },
+    {
+      "handle": "alx",
+      "platform": 0,
+      "user_id": "534023"
+    },
+    {
+      "handle": "peterschiff",
+      "platform": 0,
+      "user_id": "56562803",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cctv",
+      "platform": 0,
+      "user_id": "56644534",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "coinbase",
+      "platform": 0,
+      "user_id": "574032254",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dongbnb",
+      "platform": 0,
+      "user_id": "593280500"
+    },
+    {
+      "handle": "pmarca",
+      "platform": 0,
+      "user_id": "5943622",
+      "borderColor": "#00ffcc",
+      "sound": "Yes"
+    },
+    {
+      "handle": "superl9",
+      "platform": 0,
+      "user_id": "594717639"
+    },
+    {
+      "handle": "vladtenev",
+      "platform": 0,
+      "user_id": "605700792",
+      "remark": {
+        "name": "robinhood创始人",
+        "color": "#F8B951"
+      },
+      "borderColor": "#00ffcc",
+      "sound": "Boom"
+    },
+    {
+      "handle": "xiaolai",
+      "platform": 0,
+      "user_id": "61356505"
+    },
+    {
+      "handle": "icedknife",
+      "platform": 0,
+      "user_id": "618539620",
+      "borderColor": "#00e9fa",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "tangjinzhou",
+      "platform": 0,
+      "user_id": "618751087"
+    },
+    {
+      "handle": "nikitabier",
+      "platform": 0,
+      "user_id": "636513296",
+      "borderColor": "#00e1ff",
+      "sound": "Boom"
+    },
+    {
+      "handle": "rt_com",
+      "platform": 0,
+      "user_id": "64643056"
+    },
+    {
+      "handle": "a16z",
+      "platform": 0,
+      "user_id": "64844802"
+    },
+    {
+      "handle": "yizhimao_super",
+      "platform": 0,
+      "user_id": "67307473"
+    },
+    {
+      "handle": "disney",
+      "platform": 0,
+      "user_id": "67418441"
+    },
+    {
+      "handle": "haydenzadams",
+      "platform": 0,
+      "user_id": "702654540387127296"
+    },
+    {
+      "handle": "thankucrypto",
+      "platform": 0,
+      "user_id": "705564530936418304"
+    },
+    {
+      "handle": "mcdonalds",
+      "platform": 0,
+      "user_id": "71026122"
+    },
+    {
+      "handle": "yicaichina",
+      "platform": 0,
+      "user_id": "714684004495204352"
+    },
+    {
+      "handle": "blockbeatsasia",
+      "platform": 0,
+      "user_id": "716924459664277504",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "trump",
+      "platform": 0,
+      "user_id": "720293443260456960",
+      "borderColor": "#00eeff"
+    },
+    {
+      "handle": "coinbasemarkets",
+      "platform": 0,
+      "user_id": "720487892670410753"
+    },
+    {
+      "handle": "ht78221",
+      "platform": 0,
+      "user_id": "722403107150233600"
+    },
+    {
+      "handle": "nathan_liow",
+      "platform": 0,
+      "user_id": "723715229113147393"
+    },
+    {
+      "handle": "0xajc",
+      "platform": 0,
+      "user_id": "725526411222519808"
+    },
+    {
+      "handle": "florkofcows",
+      "platform": 0,
+      "user_id": "727258083236286464",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jay_azhang",
+      "platform": 0,
+      "user_id": "729159509214515200"
+    },
+    {
+      "handle": "yahoonews",
+      "platform": 0,
+      "user_id": "7309052",
+      "borderColor": "#06abfe",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "chandlerguo",
+      "platform": 0,
+      "user_id": "739948645"
+    },
+    {
+      "handle": "naval",
+      "platform": 0,
+      "user_id": "745273",
+      "borderColor": "#00ff9d",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mastercard",
+      "platform": 0,
+      "user_id": "75014376",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cryptosociety42",
+      "platform": 0,
+      "user_id": "757429055130071040"
+    },
+    {
+      "handle": "cnn",
+      "platform": 0,
+      "user_id": "759251"
+    },
+    {
+      "handle": "zhu_jingyang",
+      "platform": 0,
+      "user_id": "764011909725040640",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "senamakel",
+      "platform": 0,
+      "user_id": "767252878209744896"
+    },
+    {
+      "handle": "dexerto",
+      "platform": 0,
+      "user_id": "76766018"
+    },
+    {
+      "handle": "lclwalter",
+      "platform": 0,
+      "user_id": "773383087078113280"
+    },
+    {
+      "handle": "mo_bschain",
+      "platform": 0,
+      "user_id": "775845110550556672",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "rob02643673_rob",
+      "platform": 0,
+      "user_id": "778100856"
+    },
+    {
+      "handle": "x",
+      "platform": 0,
+      "user_id": "783214",
+      "borderColor": "#00eeff",
+      "sound": "Boom"
+    },
+    {
+      "handle": "fnmilito",
+      "platform": 0,
+      "user_id": "788217106068299776"
+    },
+    {
+      "handle": "bbcchinese",
+      "platform": 0,
+      "user_id": "791197",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "athenaweb33",
+      "platform": 0,
+      "user_id": "800413883345170432",
+      "borderColor": "#00d5ff"
+    },
+    {
+      "handle": "cz",
+      "platform": 0,
+      "user_id": "807027"
+    },
+    {
+      "handle": "tiancaidev",
+      "platform": 0,
+      "user_id": "809528870567194625"
+    },
+    {
+      "handle": "heyi1f",
+      "platform": 0,
+      "user_id": "817204436187549697"
+    },
+    {
+      "handle": "bitwux",
+      "platform": 0,
+      "user_id": "825183199198212096"
+    },
+    {
+      "handle": "soulter3",
+      "platform": 0,
+      "user_id": "832214201636491265",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mangzgw_web21",
+      "platform": 0,
+      "user_id": "838142658858057728"
+    },
+    {
+      "handle": "darwin7381",
+      "platform": 0,
+      "user_id": "839357104947286016"
+    },
+    {
+      "handle": "juejingbnb",
+      "platform": 0,
+      "user_id": "84233668"
+    },
+    {
+      "handle": "satofishi",
+      "platform": 0,
+      "user_id": "843586794155196416",
+      "borderColor": "#00ff9d",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cdtchinese",
+      "platform": 0,
+      "user_id": "85875473",
+      "borderColor": "#00e1ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bnbwolfclaw",
+      "platform": 0,
+      "user_id": "858946338"
+    },
+    {
+      "handle": "ga__ke",
+      "platform": 0,
+      "user_id": "86647812"
+    },
+    {
+      "handle": "okx",
+      "platform": 0,
+      "user_id": "867617849208037377",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "mark_k",
+      "platform": 0,
+      "user_id": "8721292"
+    },
+    {
+      "handle": "rongplace",
+      "platform": 0,
+      "user_id": "876199290544177152"
+    },
+    {
+      "handle": "chinadaily",
+      "platform": 0,
+      "user_id": "87775422",
+      "borderColor": "#00aaff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binance",
+      "platform": 0,
+      "user_id": "877807935493033984",
+      "borderColor": "#fff700",
+      "sound": "Boom"
+    },
+    {
+      "handle": "raylin51",
+      "platform": 0,
+      "user_id": "881549636372119552",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "zacxbt",
+      "platform": 0,
+      "user_id": "886765719391789057"
+    },
+    {
+      "handle": "justinsuntron",
+      "platform": 0,
+      "user_id": "902839045356744704"
+    },
+    {
+      "handle": "cz_binance",
+      "platform": 0,
+      "user_id": "902926941413453824",
+      "borderColor": "#eeff00",
+      "sound": "Boom"
+    },
+    {
+      "handle": "coinbureau",
+      "platform": 0,
+      "user_id": "906230721513181184"
+    },
+    {
+      "handle": "0xmassey",
+      "platform": 0,
+      "user_id": "910359755243376643",
+      "remark": {
+        "name": "ton生态lead",
+        "color": "#F8B951"
+      }
+    },
+    {
+      "handle": "mattprd",
+      "platform": 0,
+      "user_id": "9103922",
+      "borderColor": "#00a1e6",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "trustwallet",
+      "platform": 0,
+      "user_id": "911011433147654144",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "thegarrettscott",
+      "platform": 0,
+      "user_id": "924498100814778369",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "nvidiarobotics",
+      "platform": 0,
+      "user_id": "92597440"
+    },
+    {
+      "handle": "dingalingts",
+      "platform": 0,
+      "user_id": "936048782206058496",
+      "borderColor": "#00fbff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "bowsonchain",
+      "platform": 0,
+      "user_id": "940741090122063872",
+      "borderColor": "#009dff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "thegoodtimeline",
+      "platform": 0,
+      "user_id": "943385374260203520",
+      "borderColor": "#00b3ff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "binancetr",
+      "platform": 0,
+      "user_id": "945302369516032000"
+    },
+    {
+      "handle": "edmtprotocol",
+      "platform": 0,
+      "user_id": "94858891",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "jackyi_ld",
+      "platform": 0,
+      "user_id": "950231737518321666"
+    },
+    {
+      "handle": "solana",
+      "platform": 0,
+      "user_id": "951329744804392960",
+      "borderColor": "#00ffee",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "haze0x",
+      "platform": 0,
+      "user_id": "959291597622886400",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "yzilabs",
+      "platform": 0,
+      "user_id": "960036444885565442",
+      "borderColor": "#fff700",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "dwr",
+      "platform": 0,
+      "user_id": "9615352",
+      "borderColor": "#00ffd5",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "0xzhang_crypto",
+      "platform": 0,
+      "user_id": "965170423"
+    },
+    {
+      "handle": "machibigbrother",
+      "platform": 0,
+      "user_id": "970014782135844864",
+      "borderColor": "#00ffe1",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "memesallday3",
+      "platform": 0,
+      "user_id": "972148364858023936"
+    },
+    {
+      "handle": "if_wewin",
+      "platform": 0,
+      "user_id": "972996293617315841"
+    },
+    {
+      "handle": "blknoiz06",
+      "platform": 0,
+      "user_id": "973261472",
+      "borderColor": "#00bfff",
+      "sound": "Cheer"
+    },
+    {
+      "handle": "cryptoxiao",
+      "platform": 0,
+      "user_id": "974245080616742912"
+    },
+    {
+      "handle": "jain_web3",
+      "platform": 0,
+      "user_id": "984012361395851265"
+    },
+    {
+      "handle": "teslaconomics",
+      "platform": 0,
+      "user_id": "985243593538338816"
+    },
+    {
+      "handle": "binanceacademy",
+      "platform": 0,
+      "user_id": "985686071244541952"
+    },
+    {
+      "handle": "binanceresearch",
+      "platform": 0,
+      "user_id": "985688130509393920"
+    },
+    {
+      "handle": "bybit_official",
+      "platform": 0,
+      "user_id": "999947328621395968"
+    }
+  ]
+}
